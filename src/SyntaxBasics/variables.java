@@ -1,3 +1,5 @@
+package SyntaxBasics;
+
 public class variables {
     public static void main(String[] args){
         // integer
